@@ -2,7 +2,7 @@ This repository contains the code responsible for the NeurIPS NLST TotalSegmenta
 
 Sample plots: 
 
-[Within-study bokeh plot for the spleen](https://htmlpreview.github.io/?https://github.com/deepakri/neurips_nlst_totalsegmentator/blob/main/Spleen.html)
+[Within-study bokeh plot for the spleen](https://htmlpreview.github.io/?https://github.com/deepakri201/neurips_nlst_totalsegmentator/blob/main/Spleen.html)
 
 
 
