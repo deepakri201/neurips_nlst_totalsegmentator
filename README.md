@@ -4,9 +4,6 @@ Sample plots:
 
 [Within-study bokeh plot for the spleen](https://htmlpreview.github.io/?https://github.com/deepakri201/neurips_nlst_totalsegmentator/blob/main/Spleen.html)
 
-
-
-
 Deepa Krishnaswamy
 
 Brigham and Women's Hospital 
